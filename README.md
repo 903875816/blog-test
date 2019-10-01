@@ -15,7 +15,7 @@
 2. One Punch
 3. 魔禁系列
 
-学过的编程语言有 `Java` `Python ` `JavaScript`。我写一段给你瞧瞧吧
+学过的编程语言有 `Java` `Python` `JavaScript`。我写一段给你瞧瞧吧
 
 ```SHELL
 our_name="qinjx"
